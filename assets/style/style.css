@@ -1,0 +1,22 @@
+/* BASIC STYLES HERE */
+.bg-red {
+  background-color: #E93031;
+}
+
+header {
+  height: 8vh;
+  border-bottom: 4px solid black;
+}
+
+.pageTitle {
+  padding-right: 12rem;
+}
+
+.pokemon-name {
+  border: 4px solid black;
+  background-color: #E93031;
+}
+
+.pokemon-list {
+  height: 70vh;
+}
